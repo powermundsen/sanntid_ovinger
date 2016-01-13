@@ -1,0 +1,20 @@
+1: Thinking about elevators
+
+
+What if the software controlling one of the elvators suddeny crashes?
+- Da må heisen stoppe opp eller automatisk gå til 1. etasje. 
+
+What if it doesn't crash, but hangs?
+- Etter en gitt tid uten å gjøre noe bør den restartes.
+
+What if a message between machines is lost?
+- Dette kan unngås ved å sette tall på meldingene eller ved å sende godkjenning tilbake.
+
+What if the network cable is suddenly disconnected? Then re-connected?
+- 
+
+What if a user of the system is being a troll?
+- Sperre for å kuke i systemet? 
+
+What if the elevator car never arrives at its destination?
+- Resette systemet til siste kjente tilstand? 
